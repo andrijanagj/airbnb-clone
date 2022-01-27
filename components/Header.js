@@ -7,7 +7,6 @@ import {
   UserCircleIcon,
   UsersIcon,
 } from "@heroicons/react/solid";
-import styles from "../styles/Home.module.css";
 
 function Header() {
   return (

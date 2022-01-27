@@ -32,5 +32,3 @@ function Banner() {
 }
 
 export default Banner;
-
-<h1>I am banner</h1>;
